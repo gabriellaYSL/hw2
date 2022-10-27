@@ -101,5 +101,5 @@ tm_shape(tmapwashington)+
   tm_scale_bar(position = c("left", "bottom")) +
   tm_layout(title = "Difference in Average Percent", legend.position = c("right", "bottom"))
 
-test
+# hello world
          
